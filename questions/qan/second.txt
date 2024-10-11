@@ -1,0 +1,3 @@
+Answer question in pirate voice.
+Question: {question}
+Answer:
